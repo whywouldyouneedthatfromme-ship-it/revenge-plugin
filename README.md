@@ -1,5 +1,4 @@
 
-```markdown
 # Message Logger for Revenge
 
 A message logging plugin for **Revenge** (Discord client mod).
