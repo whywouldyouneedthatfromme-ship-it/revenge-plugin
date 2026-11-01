@@ -120,13 +120,4 @@ https://raw.githubusercontent.com/whywouldyouneedthatfromme-ship-it/revenge-plug
 
 ---
 
-## Final Warning
-
-**Use this plugin at your own risk. I am not responsible for account bans, suspensions, data loss, privacy issues, or any other consequences.**
-```
-
-You can also use this shorter warning at the very top if you want it to be impossible to miss:
-
-```markdown
-> **WARNING: I AM NOT RESPONSIBLE FOR BANS. USE AT YOUR OWN RISK.**
-```
+If something isn't working as expected, make an "issue"
