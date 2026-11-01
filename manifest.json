@@ -1,0 +1,14 @@
+{
+	"name": "Message Logger",
+	"description": "Keeps deleted messages visible in chat, shows old versions of edited messages, and saves a local log of everything it catches.",
+	"authors": [
+		{
+			"name": "Local Build"
+		}
+	],
+	"main": "index.js",
+	"vendetta": {
+		"icon": "ic_message_edit"
+	},
+	"hash": "0ad43406bca5adeeacbbef26736832eb3fcbe84895de0f67f818ff8e6aa26849"
+}
